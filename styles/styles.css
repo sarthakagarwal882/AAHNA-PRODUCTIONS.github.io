@@ -404,13 +404,14 @@ hr {
     }
 
     .contact-img {
-        width: 4vw;
+        width: 6vw;
         /* display: inline-block; */
         margin-top: 0.1vw;
     }
 
     .insta {
         width: 4vw;
+        padding-right: 10px;
         display: inline-block;
     }
 
@@ -421,6 +422,7 @@ hr {
     .tiktok {
         width: 3vw;
         float: right;
+        padding-left: 10px;
     }
 
     .email-div {
