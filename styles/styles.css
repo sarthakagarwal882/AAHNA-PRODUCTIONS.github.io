@@ -34,7 +34,7 @@ p {
     font-size: 7vw;
     margin: 0px;
     padding-left: 1.8vw;
-    letter-spacing: 0rem;
+    letter-spacing: -0.13rem;
 }
 
 .header-top {
@@ -261,11 +261,11 @@ hr {
     .header {
         font-family: 'Public Sans', sans-serif;
         font-weight: 800;
-        font-size: 12.7vw;
+        font-size: 12.5vw;
         margin: 0px;
         padding-left: 7vw;
         text-align: left;
-        letter-spacing: 0rem;
+        letter-spacing: -0.3rem;
     }
 
     .header-top {
@@ -429,7 +429,7 @@ hr {
     }
 
     .contact {
-        width: 100vw;
+        width: 90vw;
         height: 10vw;
         display: inline-block;
         text-align: center;
